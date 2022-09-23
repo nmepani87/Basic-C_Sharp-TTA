@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\nileshmepani\Desktop\Basic_C#_Programs\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
