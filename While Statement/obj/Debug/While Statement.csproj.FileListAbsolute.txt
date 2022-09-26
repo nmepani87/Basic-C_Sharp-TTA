@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\obj\Debug\While Statement.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\obj\Debug\While Statement.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\obj\Debug\While Statement.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\bin\Debug\While Statement.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\bin\Debug\While Statement.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\bin\Debug\While Statement.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\obj\Debug\While Statement.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\While Statement\obj\Debug\While Statement.pdb
