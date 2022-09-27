@@ -63,7 +63,7 @@ namespace While_Statement
             {
                 // Getting the model variable evaulated
                 switch (model)
-                    {
+                {
                     case "Diablo":
                         Console.WriteLine("You picked the Diablo, nice choice but not the correct one. Pick another one.");
                         model = Console.ReadLine();
@@ -89,13 +89,19 @@ namespace While_Statement
                         model = Console.ReadLine();
                         break;
                     case "Murcielago":
-                        Console.WriteLine("Correct! The sound of this V12 made this model our favourite.");
                         rightmodel = true;
                         break;
-                    }
+                    // Default block executed if user input doesn't match any strings that have cases written for them
+                    default:
+                        Console.WriteLine("You need to pick an Lamborghini model!");
+                        Console.WriteLine("Please try again");
+                        model = Console.ReadLine();
+                        break;
                 }
+            }
             // Condition to carry on executing blocks whilst rightmodel bolean is still not trues
             while (!rightmodel);
+            Console.WriteLine("Correct! The sound of this V12 made this model our favourite.");
         }
 
     }
