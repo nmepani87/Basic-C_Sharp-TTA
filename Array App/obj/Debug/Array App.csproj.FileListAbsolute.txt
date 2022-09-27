@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\bin\Debug\Array App.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\bin\Debug\Array App.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\bin\Debug\Array App.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\obj\Debug\Array App.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\obj\Debug\Array App.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\obj\Debug\Array App.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\obj\Debug\Array App.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Array App\obj\Debug\Array App.pdb

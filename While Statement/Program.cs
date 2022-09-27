@@ -94,7 +94,7 @@ namespace While_Statement
                         break;
                     }
                 }
-            // Condition to carry on executing blocks whilst rightmodel bolean is still not true
+            // Condition to carry on executing blocks whilst rightmodel bolean is still not trues
             while (!rightmodel);
         }
 
