@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\obj\Debug\Main Method.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\obj\Debug\Main Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\obj\Debug\Main Method.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\bin\Debug\Main Method.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\bin\Debug\Main Method.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\bin\Debug\Main Method.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\obj\Debug\Main Method.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\obj\Debug\Main Method.pdb
