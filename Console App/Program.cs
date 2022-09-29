@@ -19,22 +19,18 @@ namespace Console_App
             for (int i = 0; i < mountains.Length; i++)
             {
                 // Ask user to input something into console
-                Console.WriteLine("Please enter a mountain, it'll be added to an existing list");
+                Console.WriteLine("Please enter something, it'll be added to everything in existing list");
                 // Reading the input from the user and storing it as a string variable
                 string new_entry = Console.ReadLine();
-                // Appending that new variable to the array
-                mountains = mountains.Append(new_entry).ToArray();
                 // Looping through new array
                 foreach (var item in mountains)
                 {
-                    // Printing into the console all the items in the array
-                    Console.WriteLine(item);
+                    // Printing into the console all the items in the array and
+                    // added user input to end of each string
+                    Console.WriteLine(item + new_entry);
                 }
-                // If statement to break to a position out of loop once check becomes true
-                if (mountains.Length > 7)
-                {
-                    goto AfterLoop;
-                }
+                Console.ReadLine();
+                break;
             }
         // Assignment 2
 
