@@ -17,6 +17,9 @@ namespace Method_Overload
             classes.Number(intinput1, out int total);
             Console.WriteLine(intinput1 + " divided by 2 equals " + total);
             Console.ReadLine();
+            // Calling static class and function within it and writing function result to console
+            Console.WriteLine(hiddenNumbers.numbers());
+            Console.ReadLine();
 
         }
     }

@@ -16,12 +16,13 @@ namespace Method_Overload
         }
 
         // Void static method takes in and out a parameter
-        public static void Number(int intinput1, int intinput2, out int total)
+        public void Number(int intinput1, int intinput2, out int total)
         {
             // simple math done on parameter passed through
-            intinput2 = 6;
+            intinput2 = 0;
             total = intinput1 + intinput2;
         }
-        
+
+       
     }
 }
