@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\bin\Debug\Method Multi-Parameters.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\bin\Debug\Method Multi-Parameters.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\bin\Debug\Method Multi-Parameters.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\obj\Debug\Method Multi-Parameters.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\obj\Debug\Method Multi-Parameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\obj\Debug\Method Multi-Parameters.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\obj\Debug\Method Multi-Parameters.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Method Multi-Parameters\obj\Debug\Method Multi-Parameters.pdb

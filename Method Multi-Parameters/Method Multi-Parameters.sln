@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Multi-Parameters", "Method Multi-Parameters.csproj", "{C866F54A-AFB1-4703-8C9F-243FBBB2F948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C866F54A-AFB1-4703-8C9F-243FBBB2F948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C866F54A-AFB1-4703-8C9F-243FBBB2F948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C866F54A-AFB1-4703-8C9F-243FBBB2F948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C866F54A-AFB1-4703-8C9F-243FBBB2F948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35EE69A-6742-440E-BE70-AB8BF0E0A83C}
+	EndGlobalSection
+EndGlobal
