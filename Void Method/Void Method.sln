@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Void Method", "Void Method.csproj", "{BBDD4A05-4D93-4B6C-9603-4178F1868F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDD4A05-4D93-4B6C-9603-4178F1868F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD4A05-4D93-4B6C-9603-4178F1868F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD4A05-4D93-4B6C-9603-4178F1868F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD4A05-4D93-4B6C-9603-4178F1868F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B0129EC-3398-4EA5-A1A8-96CD6A4C333F}
+	EndGlobalSection
+EndGlobal
