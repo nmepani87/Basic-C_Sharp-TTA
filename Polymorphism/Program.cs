@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract
+namespace Polymorphism
 {
     internal class Program
     {
@@ -16,6 +16,9 @@ namespace Abstract
 
             // Running the overriden method within the object 
             employee.SayName();
+            
+            IQuittable quittable = new Employee();
+            quittable.Quit();
         }
     }
 }

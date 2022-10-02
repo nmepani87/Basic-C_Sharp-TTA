@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\bin\Debug\Abstract.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\bin\Debug\Abstract.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\obj\Debug\Abstract.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract\obj\Debug\Abstract.pdb

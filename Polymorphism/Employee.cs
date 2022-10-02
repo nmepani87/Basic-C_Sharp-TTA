@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract
+namespace Polymorphism
 {
-    internal class Employee : Person
+    internal class Employee : Person, IQuittable
     {
         // Overridding method thats in the superclass
         public override void SayName()
@@ -15,6 +15,10 @@ namespace Abstract
             Console.WriteLine("Name: [" + FirstName + " " + LastName + "]");
             return;
         }
-        
+        public void Quit()
+        {
+            Console.WriteLine("This program will shut down after a few presses on the enter/return key");
+            Console.ReadLine();
+        }
     }
 }
