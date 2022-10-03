@@ -1,0 +1,8 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\bin\Debug\Lamba.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\bin\Debug\Lamba.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\bin\Debug\Lamba.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\obj\Debug\Lamba.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\obj\Debug\Lamba.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\obj\Debug\Lamba.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\obj\Debug\Lamba.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\Lamba\obj\Debug\Lamba.pdb
