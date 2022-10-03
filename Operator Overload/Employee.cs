@@ -27,14 +27,17 @@ namespace Operator_Overload
             return base.ToString();
         }
 
+        // Operater overload in == 
         public static bool operator ==(Employee EmployeeA, Employee EmployeeB)
         {
+            // Checking if the two values within ID are the same and returning true/false based upon that
             if (EmployeeA.ID.Equals(EmployeeB.ID))
                 return true;
             else
                 return false;
         }
 
+        // Opposite to above bool check to satisfy == check done in pairs (with !=)
         public static bool operator !=(Employee EmployeeA, Employee EmployeeB)
         {
             if (EmployeeA.ID.Equals(EmployeeB.ID))
