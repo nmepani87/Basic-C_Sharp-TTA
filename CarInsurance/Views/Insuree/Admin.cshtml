@@ -1,0 +1,29 @@
+﻿@using CarInsurance.Models
+@model List<Insuree>
+
+@ViewBag.Title = "Admin";
+
+<h2>Quotes List</h2>
+
+<div>
+    <h3>Insurees</h3>
+    <hr />
+
+    @foreach(var selectCol in Model)
+    {
+        <h4><strong>First Name</strong></h4>
+        @selectCol.FirstName
+        <h4><strong>Last Name</strong></h4>
+        @selectCol.LastName
+        <h4><strong>Email Address</strong></h4>
+        @selectCol.EmailAddress
+        <h4><strong>Quote</strong></h4>
+        @selectCol.Quote
+        <br />
+        <br />
+        <br />
+    }
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
