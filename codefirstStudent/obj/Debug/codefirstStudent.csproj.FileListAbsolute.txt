@@ -1,0 +1,13 @@
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\codefirstStudent.exe.config
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\codefirstStudent.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\codefirstStudent.pdb
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\EntityFramework.dll
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\EntityFramework.xml
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.csproj.AssemblyReference.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.csproj.CoreCompileInputs.cache
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.csproj.CopyComplete
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.exe
+C:\Users\nileshmepani\Desktop\C#_TTA\The-Tech-Academy-Basic-C-Sharp-Projects\codefirstStudent\obj\Debug\codefirstStudent.pdb
